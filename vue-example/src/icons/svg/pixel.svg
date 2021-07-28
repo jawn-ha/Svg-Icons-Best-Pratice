@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ic_vendor_pixel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_vendor_pixel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27.84,16 C27.84,22.5390514 22.5390514,27.84 16,27.84 C9.46094856,27.84 4.16,22.5390514 4.16,16 C4.16,9.46094856 9.46094856,4.16 16,4.16 C19.12768,4.16 22.0651543,5.38157917 24.2546647,7.51192814 L24.5940798,7.85580552 L21.3426893,10.9378275 C19.9599012,9.47905014 18.04969,8.64 16,8.64 C11.9351842,8.64 8.64,11.9351842 8.64,16 C8.64,20.0648158 11.9351842,23.36 16,23.36 C18.3789183,23.36 20.4942276,22.2313559 21.8396693,20.4803263 L16,20.48 L16,16 L27.84,16 Z" id="形状结合" fill="#515A6E"></path>
+    </g>
+</svg>
